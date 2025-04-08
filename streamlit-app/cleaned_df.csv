@@ -312,7 +312,7 @@ Platinum Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,160.0,0.0,0.0,50
 Tendon Bow,Ranger,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,50
 Throwing Knife,Ranger,0.0,0.0,1.0,0.0,0.0,112.0,0.0,0.0,50
 Ruby Staff,Mage,1.0,0.0,0.0,0.0,0.0,117.0,0.0,0.0,49
-Bone Javeline,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,48
+Bone Javelin,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,48
 Amber Staff,Mage,1.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,45
 Demon Bow,Ranger,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,45
 Enchanted Boomerang,Melee,0.0,1.0,0.0,0.0,0.0,60.0,0.0,0.0,45
@@ -323,7 +323,7 @@ Silver Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,45
 Silver Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,45
 Snapthorn,Summoner,0.0,0.0,0.0,1.0,0.0,100.0,0.0,0.0,45
 Thunder Zapper,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45
-Javeline,Ranger,0.0,0.0,1.0,0.0,0.0,150.0,0.0,0.0,44
+Javelin,Ranger,0.0,0.0,1.0,0.0,0.0,150.0,0.0,0.0,44
 Red Ryder,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,44
 Shuriken,Ranger,0.0,0.0,1.0,0.0,0.0,140.0,0.0,0.0,44
 Platinum Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,42
@@ -374,7 +374,7 @@ Umbrella,Melee,0.0,1.0,0.0,0.0,0.0,50.0,0.0,0.0,25
 Palm Wood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24
 Boreal Wood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
 Copper Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
-Rich Mahagony Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+Rich Mahogony Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
 Topaz Staff,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
 Boreal Wood Sword,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,20
 Breathing Reed,Melee,0.0,1.0,0.0,0.0,0.0,60.0,0.0,0.0,20
