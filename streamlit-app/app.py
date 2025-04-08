@@ -10,14 +10,14 @@ import plotly.express as px
 # Load the model
 @st.cache_resource
 def load_model():
-    return joblib.load('knn_model.pkl')
+    return joblib.load('streamlit-app/knn_model.pkl')
 model = load_model()
 
 # Load dataframe
 @st.cache_data
 def load_dataframe():
-    return pd.read_csv('cleaned_df.csv')
-df = pd.read_csv('cleaned_df.csv')
+    return pd.read_csv('streamlit-app/cleaned_df.csv')
+df = pd.read_csv('streamlit-app/cleaned_df.csv')
 
 # Get Features
 X = df.drop(['NAME', 'CLASS'], axis=1)
