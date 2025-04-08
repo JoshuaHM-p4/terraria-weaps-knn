@@ -156,6 +156,7 @@ st.write('---')
 
 # Footer
 st.write("- Made with ❤️ by [JoshuaHM-p4](https://github.com/JoshuaHM-p4/)")
+st.write("- Visit Repository @ [terraria-weaps-knn](https://github.com/JoshuaHM-p4/terraria-weaps-knn)")
 st.write("- Terraria DPS Data (Game Version: 1.4.4.9) from [Kaggle by Andres Coronel](https://www.kaggle.com/datasets/acr1209/all-terraria-weapons-dps-v-1449)")
 st.write("- KNN Model trained using scikit-learn through [Kaggle Notebooks](https://www.kaggle.com/code/joshuamistal/terraria-weapon-recommender-using-knn).")
 st.write("- Icons from [Terraria Wiki](https://terraria.wiki.gg/wiki/).")
