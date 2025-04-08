@@ -1,0 +1,396 @@
+NAME,CLASS,CLASS_Mage,CLASS_Melee,CLASS_Ranger,CLASS_Summoner,GAME PROGRESSION,DPS (MULTI TARGET),DPS (SINGLE TARGET + PROJECTILE ONLY),DPS (MULTI TARGET + PROJECTILE ONLY),DPS (SINGLE TARGET)
+Zenith,Melee,0.0,1.0,0.0,0.0,15.0,13000.0,0.0,0.0,4800
+Last Prism,Mage,1.0,0.0,0.0,0.0,15.0,1142.0,0.0,0.0,3657
+Star Wrath,Melee,0.0,1.0,0.0,0.0,15.0,5800.0,1500.0,3700.0,2700
+Terrarian,Melee,0.0,1.0,0.0,0.0,15.0,4600.0,700.0,1000.0,2200
+Meowmere,Melee,0.0,1.0,0.0,0.0,15.0,6400.0,1300.0,3400.0,2100
+Lunar Flare,Mage,1.0,0.0,0.0,0.0,15.0,5543.0,0.0,0.0,1974
+Celebration Mk.2,Ranger,0.0,0.0,1.0,0.0,15.0,2821.0,0.0,0.0,1709
+Solar Eruption,Melee,0.0,1.0,0.0,0.0,14.0,4300.0,0.0,0.0,1500
+Bubble Gun,Mage,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,1467
+Starlight,Melee,0.0,1.0,0.0,0.0,13.0,4000.0,0.0,0.0,1300
+S.D.M.G,Ranger,0.0,0.0,1.0,0.0,15.0,0.0,0.0,0.0,1256
+Nebula Arcanum,Mage,1.0,0.0,0.0,0.0,14.0,2183.0,0.0,0.0,1254
+Laser Machine Gun,Mage,1.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,1210
+Flying Dragon,Melee,0.0,1.0,0.0,0.0,11.0,3100.0,600.0,2100.0,1200
+Daybreak,Melee,0.0,1.0,0.0,0.0,14.0,0.0,0.0,0.0,1100
+Nebula Blaze,Mage,1.0,0.0,0.0,0.0,14.0,2123.0,0.0,0.0,1094
+Razor Pine,Mage,1.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,1067
+Stellar Tune,Mage,1.0,0.0,0.0,0.0,13.0,3073.0,0.0,0.0,1056
+Vortex Beater,Ranger,0.0,0.0,1.0,0.0,14.0,1060.0,0.0,0.0,976
+Charged Blaster Cannon,Mage,1.0,0.0,0.0,0.0,12.0,2620.0,0.0,0.0,949
+Nightglow,Mage,1.0,0.0,0.0,0.0,13.0,914.0,0.0,0.0,914
+Sky Dragon's Fury,Melee,0.0,1.0,0.0,0.0,11.0,3200.0,600.0,1200.0,800
+Eventide,Ranger,0.0,0.0,1.0,0.0,13.0,2133.0,0.0,0.0,779
+Phantasm,Ranger,0.0,0.0,1.0,0.0,14.0,0.0,0.0,0.0,752
+Blizzard Staff,Mage,1.0,0.0,0.0,0.0,11.0,1200.0,0.0,0.0,750
+Tsunami,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,742
+Christmas Tree Sword,Melee,0.0,1.0,0.0,0.0,11.0,1200.0,600.0,1100.0,720
+Terra Blade,Melee,0.0,1.0,0.0,0.0,11.0,1400.0,400.0,850.0,700
+Xenopopper,Ranger,0.0,0.0,1.0,0.0,12.0,0.0,0.0,0.0,691
+Seedler,Melee,0.0,1.0,0.0,0.0,11.0,1100.0,400.0,600.0,650
+The Eye of Cthulhu,Melee,0.0,1.0,0.0,0.0,11.0,1000.0,0.0,0.0,650
+Betsy's Wrath,Mage,1.0,0.0,0.0,0.0,12.0,2224.0,0.0,0.0,635
+Nail Gun,Ranger,0.0,0.0,1.0,0.0,11.0,1246.0,0.0,0.0,633
+Electrosphere Launcher,Ranger,0.0,0.0,1.0,0.0,12.0,1888.0,0.0,0.0,614
+Jack 'O Lantern Launcher,Ranger,0.0,0.0,1.0,0.0,11.0,1348.0,0.0,0.0,613
+Bat Scepter,Mage,1.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,600
+Influx Waver,Melee,0.0,1.0,0.0,0.0,11.0,1300.0,500.0,0.0,600
+Kraken,Melee,0.0,1.0,0.0,0.0,11.0,700.0,0.0,0.0,600
+Psycho Knife,Melee,0.0,1.0,0.0,0.0,11.0,2000.0,0.0,0.0,600
+Stake Launcher,Ranger,0.0,0.0,1.0,0.0,11.0,1534.0,0.0,0.0,599
+Chain Gun,Ranger,0.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,590
+Stardust Dragon Staff,Summoner,0.0,0.0,0.0,1.0,14.0,1700.0,0.0,0.0,580
+Aerial Bane,Ranger,0.0,0.0,1.0,0.0,11.0,2732.0,0.0,0.0,564
+Piranha Gun,Ranger,0.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,553
+Elf Melter,Ranger,0.0,0.0,1.0,0.0,11.0,1446.0,0.0,0.0,530
+Vampire Knives,Melee,0.0,1.0,0.0,0.0,11.0,520.0,0.0,0.0,520
+Heat Ray,Mage,1.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,512
+Tactical Shotgun,Ranger,0.0,0.0,1.0,0.0,11.0,0.0,0.0,0.0,507
+Fetid Baghnakhs,Melee,0.0,1.0,0.0,0.0,6.0,1500.0,0.0,0.0,500
+Flairon,Melee,0.0,1.0,0.0,0.0,6.0,500.0,0.0,0.0,500
+Paladin's Hammer,Melee,0.0,1.0,0.0,0.0,11.0,1200.0,0.0,0.0,500
+Spectre Staff,Mage,1.0,0.0,0.0,0.0,11.0,520.0,0.0,0.0,500
+Valkyrie Yoyo,Melee,0.0,1.0,0.0,0.0,9.0,600.0,0.0,0.0,500
+Venom Staff,Mage,1.0,0.0,0.0,0.0,6.0,1100.0,0.0,0.0,460
+Keybrand,Melee,0.0,1.0,0.0,0.0,11.0,950.0,0.0,0.0,450
+Razonblade Typhoon,Mage,1.0,0.0,0.0,0.0,6.0,1600.0,0.0,0.0,450
+Snowman Cannon,Ranger,0.0,0.0,1.0,0.0,11.0,1636.0,0.0,0.0,444
+Sniper Rifle,Ranger,0.0,0.0,1.0,0.0,11.0,1281.0,0.0,0.0,431
+Leaf Blower,Mage,1.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,428
+Candy Corn Rifle,Ranger,0.0,0.0,1.0,0.0,11.0,1152.0,0.0,0.0,425
+Kaleidoscope,Summoner,0.0,0.0,0.0,1.0,13.0,1200.0,0.0,0.0,420
+Resonance Scepter,Mage,1.0,0.0,0.0,0.0,11.0,1050.0,0.0,0.0,410
+Venus Magnum,Ranger,0.0,0.0,1.0,0.0,11.0,1096.0,0.0,0.0,406
+Possessed Hatchet,Melee,0.0,1.0,0.0,0.0,12.0,1000.0,0.0,0.0,400
+Red's Throw,Melee,0.0,1.0,0.0,0.0,9.0,500.0,0.0,0.0,400
+The Horseman's Blade,Melee,0.0,1.0,0.0,0.0,11.0,1200.0,0.0,0.0,400
+Toxic Flask,Mage,1.0,0.0,0.0,0.0,11.0,984.0,0.0,0.0,398
+Rocket Launcher,Ranger,0.0,0.0,1.0,0.0,11.0,957.0,0.0,0.0,385
+Stynger,Ranger,0.0,0.0,1.0,0.0,12.0,1030.0,0.0,0.0,383
+Flamethrower,Ranger,0.0,0.0,1.0,0.0,10.0,903.0,0.0,0.0,365
+Super Star Shooter,Ranger,0.0,0.0,1.0,0.0,10.0,1140.0,0.0,0.0,363
+Dark Harvest,Summoner,0.0,0.0,0.0,1.0,11.0,950.0,0.0,0.0,350
+Death Sickle,Melee,0.0,1.0,0.0,0.0,10.0,900.0,300.0,750.0,350
+Rainbow Crystal Staff,Summoner,0.0,0.0,0.0,1.0,15.0,1000.0,0.0,0.0,350
+Tome of Infinite Wisdom,Mage,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,350
+Magnet Sphere,Mage,1.0,0.0,0.0,0.0,10.0,334.0,0.0,0.0,333
+Grenade Launcher,Ranger,0.0,0.0,1.0,0.0,11.0,1055.0,0.0,0.0,330
+Meteor Staff,Mage,1.0,0.0,0.0,0.0,6.0,850.0,0.0,0.0,330
+Ghastly Glaive,Melee,0.0,1.0,0.0,0.0,9.0,1000.0,0.0,0.0,320
+Unholy Trident,Mage,1.0,0.0,0.0,0.0,6.0,942.0,0.0,0.0,315
+Onyx Blaster,Ranger,0.0,0.0,1.0,0.0,6.0,456.0,0.0,0.0,312
+Anchor,Melee,0.0,1.0,0.0,0.0,6.0,400.0,0.0,0.0,300
+Arkhalis,Melee,0.0,1.0,0.0,0.0,9.0,920.0,0.0,0.0,300
+Breaker Blade,Melee,0.0,1.0,0.0,0.0,6.0,800.0,0.0,0.0,300
+Chlorophyte Saber,Melee,0.0,1.0,0.0,0.0,10.0,750.0,150.0,650.0,300
+Chlorophyte Shotbow,Ranger,0.0,0.0,1.0,0.0,10.0,0.0,0.0,0.0,300
+Chlorophyte Claymore,Melee,0.0,1.0,0.0,0.0,10.0,1000.0,70.0,250.0,300
+Code 2,Melee,0.0,1.0,0.0,0.0,9.0,500.0,0.0,0.0,300
+Drippler Crippler,Melee,0.0,1.0,0.0,0.0,6.0,800.0,80.0,150.0,300
+Flower Pow,Melee,0.0,1.0,0.0,0.0,11.0,1100.0,0.0,0.0,300
+Golem Fist,Melee,0.0,1.0,0.0,0.0,12.0,1000.0,0.0,0.0,300
+Gungnir,Melee,0.0,1.0,0.0,0.0,9.0,900.0,0.0,0.0,300
+Light Disc,Melee,0.0,1.0,0.0,0.0,9.0,750.0,0.0,0.0,300
+Morning Star,Summoner,0.0,0.0,0.0,1.0,11.0,850.0,0.0,0.0,300
+North Pole,Melee,0.0,1.0,0.0,0.0,11.0,750.0,250.0,650.0,300
+Sleepy Octopod,Melee,0.0,1.0,0.0,0.0,9.0,1000.0,0.0,0.0,300
+True Night's Edge,Melee,0.0,1.0,0.0,0.0,10.0,450.0,150.0,200.0,300
+Yelets,Melee,0.0,1.0,0.0,0.0,9.0,400.0,0.0,0.0,300
+Megashark,Ranger,0.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,292
+Wasp Gun,Mage,1.0,0.0,0.0,0.0,11.0,769.0,0.0,0.0,286
+Pulse Bow,Ranger,0.0,0.0,1.0,0.0,10.0,771.0,0.0,0.0,282
+Spirit Flame,Mage,1.0,0.0,0.0,0.0,6.0,323.0,0.0,0.0,281
+Celebration,Ranger,0.0,0.0,1.0,0.0,12.0,842.0,0.0,0.0,280
+Crystal Storm,Mage,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,280
+Sky Fracture,Mage,1.0,0.0,0.0,0.0,6.0,330.0,0.0,0.0,280
+Staff of Earth,Mage,1.0,0.0,0.0,0.0,12.0,840.0,0.0,0.0,280
+Star Cannon,Ranger,0.0,0.0,1.0,0.0,2.0,786.0,0.0,0.0,280
+Toxikarp,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,272
+Rainbow Gun,Mage,1.0,0.0,0.0,0.0,11.0,824.0,0.0,0.0,271
+Brand of the Inferno,Melee,0.0,1.0,0.0,0.0,11.0,900.0,0.0,0.0,270
+Clinger Staff,Mage,1.0,0.0,0.0,0.0,6.0,520.0,0.0,0.0,270
+Shadowbeam Staff,Mage,1.0,0.0,0.0,0.0,11.0,750.0,0.0,0.0,270
+Waffle's Iron,Melee,0.0,1.0,0.0,0.0,10.0,550.0,150.0,0.0,270
+Uzi,Ranger,0.0,0.0,1.0,0.0,6.0,630.0,0.0,0.0,260
+Magical Harp,Mage,1.0,0.0,0.0,0.0,8.0,712.0,0.0,0.0,254
+Poison Staff,Mage,1.0,0.0,0.0,0.0,6.0,732.0,0.0,0.0,254
+Bananarang,Melee,0.0,1.0,0.0,0.0,6.0,750.0,0.0,0.0,250
+Chain Guillotines,Melee,0.0,1.0,0.0,0.0,6.0,500.0,0.0,0.0,250
+Gatlingator,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,250
+Ice Sickle,Melee,0.0,1.0,0.0,0.0,6.0,450.0,300.0,350.0,250
+Mushroom Spear,Melee,0.0,1.0,0.0,0.0,9.0,750.0,0.0,0.0,250
+Nettle Burst,Mage,1.0,0.0,0.0,0.0,11.0,670.0,0.0,0.0,250
+Obsidian Swordfish,Melee,0.0,1.0,0.0,0.0,6.0,1100.0,0.0,0.0,250
+True Excalibur,Melee,0.0,1.0,0.0,0.0,11.0,800.0,0.0,0.0,250
+Phantom Phoenix,Ranger,0.0,0.0,1.0,0.0,9.0,370.0,0.0,0.0,242
+Adamantite Glaive,Melee,0.0,1.0,0.0,0.0,6.0,500.0,0.0,0.0,240
+Chlorophyte Partisan,Melee,0.0,1.0,0.0,0.0,10.0,800.0,300.0,880.0,240
+Quad-Barrel Shotgun,Ranger,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,240
+Titanium Trident,Melee,0.0,1.0,0.0,0.0,6.0,540.0,0.0,0.0,240
+Nimbus Rod,Mage,1.0,0.0,0.0,0.0,6.0,342.0,0.0,0.0,237
+Magic Dagger,Mage,1.0,0.0,0.0,0.0,6.0,621.0,0.0,0.0,223
+Chik,Melee,0.0,1.0,0.0,0.0,6.0,270.0,0.0,0.0,220
+Cursed Flame,Mage,1.0,0.0,0.0,0.0,6.0,443.0,0.0,0.0,220
+Cutlass,Melee,0.0,1.0,0.0,0.0,6.0,600.0,0.0,0.0,220
+Dao of Pow,Melee,0.0,1.0,0.0,0.0,6.0,850.0,0.0,0.0,220
+Demon Scythe,Mage,1.0,0.0,0.0,0.0,0.0,400.0,0.0,0.0,220
+Frostbrand,Melee,0.0,1.0,0.0,0.0,6.0,540.0,80.0,250.0,220
+Mythril Halberd,Melee,0.0,1.0,0.0,0.0,6.0,450.0,0.0,0.0,220
+Orichalcum Halber,Melee,0.0,1.0,0.0,0.0,6.0,580.0,0.0,0.0,220
+Inferno Fork,Mage,1.0,0.0,0.0,0.0,11.0,923.0,0.0,0.0,218
+Book of skulls,Mage,1.0,0.0,0.0,0.0,4.0,230.0,0.0,0.0,210
+Orange Zapinator,Mage,1.0,0.0,0.0,0.0,6.0,608.0,0.0,0.0,210
+Palladium Pike,Melee,0.0,1.0,0.0,0.0,6.0,530.0,0.0,0.0,210
+Shadowflame Knife,Melee,0.0,1.0,0.0,0.0,6.0,350.0,0.0,0.0,210
+Terragrim,Melee,0.0,1.0,0.0,0.0,0.0,620.0,0.0,0.0,210
+Ice Rod,Mage,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,206
+Ice Bow,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,203
+Shotgun,Ranger,0.0,0.0,1.0,0.0,6.0,203.0,0.0,0.0,203
+Shadowflame Bow,Ranger,0.0,0.0,1.0,0.0,6.0,526.0,0.0,0.0,202
+Hallowed Reapeter,Ranger,0.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,201
+Adamantite Sword,Melee,0.0,1.0,0.0,0.0,6.0,550.0,0.0,0.0,200
+Amarok,Melee,0.0,1.0,0.0,0.0,6.0,230.0,0.0,0.0,200
+Beam Sword,Melee,0.0,1.0,0.0,0.0,6.0,550.0,80.0,0.0,200
+Clockwork Assault Rifle,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,200
+Excalibur,Melee,0.0,1.0,0.0,0.0,9.0,700.0,0.0,0.0,200
+Format:C,Melee,0.0,1.0,0.0,0.0,6.0,250.0,0.0,0.0,200
+Frost Staff,Mage,1.0,0.0,0.0,0.0,6.0,380.0,0.0,0.0,200
+Gradient,Melee,0.0,1.0,0.0,0.0,6.0,200.0,0.0,0.0,200
+Hel-Fire,Melee,0.0,1.0,0.0,0.0,6.0,250.0,0.0,0.0,200
+KO Cannon,Melee,0.0,1.0,0.0,0.0,6.0,420.0,0.0,0.0,200
+Scourge of the Corruptor,Melee,0.0,1.0,0.0,0.0,11.0,220.0,0.0,0.0,200
+Slap Hand,Melee,0.0,1.0,0.0,0.0,6.0,500.0,0.0,0.0,200
+Marrow,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,197
+Dark Lance,Melee,0.0,1.0,0.0,0.0,4.0,400.0,0.0,0.0,190
+Life Drain,Mage,1.0,0.0,0.0,0.0,6.0,560.0,0.0,0.0,190
+Rainbow Rod,Mage,1.0,0.0,0.0,0.0,8.0,400.0,0.0,0.0,190
+Shadowflame Hex Doll,Mage,1.0,0.0,0.0,0.0,6.0,572.0,0.0,0.0,182
+Bladetongue,Melee,0.0,1.0,0.0,0.0,6.0,550.0,0.0,0.0,180
+Cobalt Naginata,Melee,0.0,1.0,0.0,0.0,6.0,400.0,0.0,0.0,180
+Flower of Frost,Mage,1.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,180
+Ham Bat,Melee,0.0,1.0,0.0,0.0,6.0,530.0,0.0,0.0,180
+Orichalcum Sword,Melee,0.0,1.0,0.0,0.0,6.0,450.0,0.0,0.0,180
+Phasesaber,Melee,0.0,1.0,0.0,0.0,6.0,570.0,0.0,0.0,180
+Titanium Repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,172
+Durendal,Summoner,0.0,0.0,0.0,1.0,9.0,450.0,0.0,0.0,170
+Lunar Portal Staff,Summoner,0.0,0.0,0.0,1.0,15.0,600.0,0.0,0.0,170
+Blood Thorn,Mage,1.0,0.0,0.0,0.0,0.0,302.0,0.0,0.0,165
+Medusa Head,Mage,1.0,0.0,0.0,0.0,6.0,492.0,0.0,0.0,164
+Adamantite Repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,163
+Phoenix Blaster,Ranger,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,162
+Crystal Vile Shard,Mage,1.0,0.0,0.0,0.0,6.0,481.0,0.0,0.0,161
+Ballista Staff,Summoner,0.0,0.0,0.0,1.0,12.0,420.0,0.0,0.0,160
+Mythril Sword,Melee,0.0,1.0,0.0,0.0,6.0,450.0,0.0,0.0,160
+Sunfury,Melee,0.0,1.0,0.0,0.0,4.0,450.0,0.0,0.0,160
+Proximity Mine Launcher,Ranger,0.0,0.0,1.0,0.0,11.0,664.0,0.0,0.0,152
+Orichalcum Repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,151
+Cool Whip,Summoner,0.0,0.0,0.0,1.0,6.0,350.0,35.0,75.0,150
+Desert Tiger Staff,Summoner,0.0,0.0,0.0,1.0,11.0,340.0,0.0,0.0,150
+Flower of Fire,Mage,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,150
+Lasser Rifle,Mage,1.0,0.0,0.0,0.0,6.0,470.0,0.0,0.0,150
+Sergeant United Shield,Melee,0.0,1.0,0.0,0.0,6.0,400.0,0.0,0.0,150
+Titanium Sword,Melee,0.0,1.0,0.0,0.0,6.0,550.0,0.0,0.0,150
+Daedalus Stormbow,Ranger,0.0,0.0,1.0,0.0,6.0,360.0,0.0,0.0,145
+Cobalt Sword,Melee,0.0,1.0,0.0,0.0,6.0,400.0,0.0,0.0,140
+Terraprisma,Summoner,0.0,0.0,0.0,1.0,13.0,490.0,0.0,0.0,140
+Boomstick,Ranger,0.0,0.0,1.0,0.0,0.0,132.0,0.0,0.0,132
+Blue Moon,Melee,0.0,1.0,0.0,0.0,4.0,400.0,0.0,0.0,130
+Cascade,Melee,0.0,1.0,0.0,0.0,4.0,130.0,0.0,0.0,130
+Combat Wrench,Melee,0.0,1.0,0.0,0.0,4.0,450.0,0.0,0.0,130
+Flamarang,Melee,0.0,1.0,0.0,0.0,2.0,180.0,0.0,0.0,130
+Flying Knife,Melee,0.0,1.0,0.0,0.0,6.0,450.0,0.0,0.0,130
+Handgun,Ranger,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,130
+Palladium Sword,Melee,0.0,1.0,0.0,0.0,6.0,400.0,0.0,0.0,130
+Starfury,Melee,0.0,1.0,0.0,0.0,0.0,260.0,50.0,110.0,130
+Mythril Repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,128
+Hellwing Bow,Ranger,0.0,0.0,1.0,0.0,4.0,320.0,0.0,0.0,120
+Pearlwood Sword,Melee,0.0,1.0,0.0,0.0,0.0,370.0,0.0,0.0,120
+Valor,Melee,0.0,1.0,0.0,0.0,4.0,150.0,0.0,0.0,120
+The Bee's Knees,Ranger,0.0,0.0,1.0,0.0,3.0,190.0,0.0,0.0,117
+Palladium repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,116
+Sandgun,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,113
+Bone,Ranger,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,112
+Bladed Glove,Melee,0.0,1.0,0.0,0.0,0.0,350.0,0.0,0.0,110
+Dart Rifle,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,110
+Golden Shower,Mage,1.0,0.0,0.0,0.0,6.0,336.0,0.0,0.0,110
+Harpoon,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,110
+Hive-Five,Melee,0.0,1.0,0.0,0.0,3.0,130.0,0.0,0.0,110
+Molten Fury,Ranger,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,110
+Night's Edge,Melee,0.0,1.0,0.0,0.0,10.0,310.0,0.0,0.0,110
+Staff of the Frost Hydra,Summoner,0.0,0.0,0.0,1.0,11.0,300.0,0.0,0.0,110
+Storm Spear,Melee,0.0,1.0,0.0,0.0,0.0,200.0,50.0,0.0,110
+Swordfish,Melee,0.0,1.0,0.0,0.0,0.0,240.0,0.0,0.0,110
+Xeno Staff,Summoner,0.0,0.0,0.0,1.0,12.0,0.0,0.0,0.0,110
+Cobalt repeater,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,107
+Pew-matic Horn,Ranger,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,104
+Minishark,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,102
+Bee Keeper,Melee,0.0,1.0,0.0,0.0,3.0,280.0,0.0,0.0,100
+Flamelash,Mage,1.0,0.0,0.0,0.0,4.0,180.0,0.0,0.0,100
+Phaseblade,Melee,0.0,1.0,0.0,0.0,2.0,250.0,0.0,0.0,100
+Stardust Cell Staff,Summoner,0.0,0.0,0.0,1.0,14.0,300.0,0.0,0.0,100
+Tempest Staff,Summoner,0.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,100
+Thorn Chakram,Melee,0.0,1.0,0.0,0.0,0.0,280.0,0.0,0.0,100
+Bee Gun,Mage,1.0,0.0,0.0,0.0,3.0,270.0,0.0,0.0,95
+Dart Pistol,Ranger,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,90
+Enchanted Sword,Melee,0.0,1.0,0.0,0.0,0.0,220.0,30.0,0.0,90
+Explosive Trap Staff,Summoner,0.0,0.0,0.0,1.0,12.0,245.0,0.0,0.0,90
+Firecracker,Summoner,0.0,0.0,0.0,1.0,6.0,200.0,0.0,0.0,90
+Gladius,Melee,0.0,1.0,0.0,0.0,0.0,200.0,0.0,0.0,90
+Gray Zapinator,Mage,1.0,0.0,0.0,0.0,1.0,120.0,0.0,0.0,90
+Frost Daggerfish,Ranger,0.0,0.0,1.0,0.0,0.0,256.0,0.0,0.0,86
+Revolver,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,86
+Code 1,Melee,0.0,1.0,0.0,0.0,1.0,110.0,0.0,0.0,85
+Amazon,Melee,0.0,1.0,0.0,0.0,0.0,80.0,0.0,0.0,80
+Bloody Machete,Melee,0.0,1.0,0.0,0.0,0.0,160.0,0.0,0.0,80
+Deadly Sphere Staff,Summoner,0.0,0.0,0.0,1.0,10.0,320.0,0.0,0.0,80
+Falcon Blade,Melee,0.0,1.0,0.0,0.0,0.0,220.0,0.0,0.0,80
+Fruitcake Chakram,Melee,0.0,1.0,0.0,0.0,0.0,80.0,0.0,0.0,80
+Musket,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,80
+Optic Staff,Summoner,0.0,0.0,0.0,1.0,8.0,280.0,0.0,0.0,80
+Paintball Gun,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,80
+Raven Staff,Summoner,0.0,0.0,0.0,1.0,11.0,0.0,0.0,0.0,80
+Spider Staff,Summoner,0.0,0.0,0.0,1.0,6.0,230.0,0.0,0.0,80
+The Undertaker,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,80
+Flintlock Pistol,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,76
+Muramasa,Melee,0.0,1.0,0.0,0.0,4.0,250.0,0.0,0.0,75
+Water Bolt,Mage,1.0,0.0,0.0,0.0,4.0,282.0,0.0,0.0,72
+Aqua Scepter,Mage,1.0,0.0,0.0,0.0,4.0,221.0,0.0,0.0,71
+Ball O' Hurt,Melee,0.0,1.0,0.0,0.0,0.0,200.0,0.0,0.0,70
+Blade of Grass,Melee,0.0,1.0,0.0,0.0,0.0,180.0,0.0,0.0,70
+Chain Knife,Melee,0.0,1.0,0.0,0.0,0.0,140.0,0.0,0.0,70
+Crimson Rod,Mage,1.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,70
+Gold Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,190.0,0.0,0.0,70
+Ice Blade,Melee,0.0,1.0,0.0,0.0,0.0,180.0,40.0,0.0,70
+Platinum Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,240.0,0.0,0.0,70
+Spinal Tap,Summoner,0.0,0.0,0.0,1.0,4.0,215.0,0.0,0.0,70
+The Meatball,Melee,0.0,1.0,0.0,0.0,1.0,240.0,0.0,0.0,70
+Vampire Frog Staff,Summoner,0.0,0.0,0.0,1.0,0.0,200.0,0.0,0.0,70
+Ballista Cane,Summoner,0.0,0.0,0.0,1.0,9.0,200.0,0.0,0.0,65
+Classy Cane,Melee,0.0,1.0,0.0,0.0,6.0,180.0,0.0,0.0,65
+Exotic Scimitar,Melee,0.0,1.0,0.0,0.0,0.0,190.0,0.0,0.0,65
+Light's Bane,Melee,0.0,1.0,0.0,0.0,1.0,160.0,0.0,0.0,65
+Lightning Aura Staff,Summoner,0.0,0.0,0.0,1.0,12.0,200.0,0.0,0.0,65
+Pygmy Staff,Summoner,0.0,0.0,0.0,1.0,11.0,0.0,0.0,0.0,65
+Queen Spider Staff,Summoner,0.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,65
+Ruler,Melee,0.0,1.0,0.0,0.0,0.0,220.0,0.0,0.0,65
+Shroomerang,Melee,0.0,1.0,0.0,0.0,0.0,90.0,0.0,0.0,65
+Space Gun,Mage,1.0,0.0,0.0,0.0,2.0,200.0,0.0,0.0,65
+Stylish Scissors,Melee,0.0,1.0,0.0,0.0,0.0,210.0,0.0,0.0,65
+Trimarang,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,65
+Star Anise,Ranger,0.0,0.0,1.0,0.0,0.0,188.0,0.0,0.0,64
+Magic Missile,Mage,1.0,0.0,0.0,0.0,4.0,185.0,0.0,0.0,63
+Bone Throwing Knife,Ranger,0.0,0.0,1.0,0.0,0.0,208.0,0.0,0.0,62
+Artery,Melee,0.0,1.0,0.0,0.0,1.0,80.0,0.0,0.0,60
+Flameburst Staff,Summoner,0.0,0.0,0.0,1.0,12.0,115.0,0.0,0.0,60
+Ice Boomerang,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,60
+Katana,Melee,0.0,1.0,0.0,0.0,0.0,170.0,0.0,0.0,60
+Malaise,Melee,0.0,1.0,0.0,0.0,1.0,70.0,0.0,0.0,60
+Mandible Blade,Melee,0.0,1.0,0.0,0.0,0.0,160.0,0.0,0.0,60
+Pirate Staff,Summoner,0.0,0.0,0.0,1.0,6.0,165.0,0.0,0.0,60
+Purple Clubberfish,Melee,0.0,1.0,0.0,0.0,0.0,180.0,0.0,0.0,60
+Rockfish,Melee,0.0,1.0,0.0,0.0,0.0,180.0,0.0,0.0,60
+Snowball Cannon,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,60
+The Rotted Fork,Melee,0.0,1.0,0.0,0.0,1.0,200.0,0.0,0.0,60
+Tungsten Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,160.0,0.0,0.0,60
+Vilethorn,Mage,1.0,0.0,0.0,0.0,0.0,200.0,0.0,0.0,60
+Volcano,Melee,0.0,1.0,0.0,0.0,2.0,180.0,0.0,0.0,60
+Poisoned Knife,Ranger,0.0,0.0,1.0,0.0,0.0,123.0,0.0,0.0,56
+Diamond Staff,Mage,1.0,0.0,0.0,0.0,0.0,131.0,0.0,0.0,55
+Tentacle Spike,Melee,0.0,1.0,0.0,0.0,0.0,170.0,0.0,0.0,55
+Trident,Melee,0.0,1.0,0.0,0.0,0.0,140.0,0.0,0.0,55
+Blowgun,Ranger,0.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0,52
+Pearlwood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,52
+Rotten Egg,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,52
+Abigail's Flower,Summoner,0.0,0.0,0.0,1.0,0.0,17.0,0.0,0.0,50
+Blood Butcherer,Melee,0.0,1.0,0.0,0.0,2.0,150.0,0.0,0.0,50
+Bone Sword,Melee,0.0,1.0,0.0,0.0,0.0,140.0,0.0,0.0,50
+Flymeal,Melee,0.0,1.0,0.0,0.0,0.0,150.0,0.0,0.0,50
+Gold Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,150.0,0.0,0.0,50
+Lead Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,50
+Platinum Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,160.0,0.0,0.0,50
+Tendon Bow,Ranger,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,50
+Throwing Knife,Ranger,0.0,0.0,1.0,0.0,0.0,112.0,0.0,0.0,50
+Ruby Staff,Mage,1.0,0.0,0.0,0.0,0.0,117.0,0.0,0.0,49
+Bone Javeline,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,48
+Amber Staff,Mage,1.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,45
+Demon Bow,Ranger,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,45
+Enchanted Boomerang,Melee,0.0,1.0,0.0,0.0,0.0,60.0,0.0,0.0,45
+Flaming Mace,Melee,0.0,1.0,0.0,0.0,0.0,125.0,0.0,0.0,45
+Mace,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,45
+Rally,Melee,0.0,1.0,0.0,0.0,0.0,45.0,0.0,0.0,45
+Silver Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,45
+Silver Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,45
+Snapthorn,Summoner,0.0,0.0,0.0,1.0,0.0,100.0,0.0,0.0,45
+Thunder Zapper,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45
+Javeline,Ranger,0.0,0.0,1.0,0.0,0.0,150.0,0.0,0.0,44
+Red Ryder,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,44
+Shuriken,Ranger,0.0,0.0,1.0,0.0,0.0,140.0,0.0,0.0,44
+Platinum Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,42
+Weather Pain,Mage,1.0,0.0,0.0,0.0,5.0,105.0,0.0,0.0,41
+Ash Wood Sword,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,40
+Bat Bat,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,40
+Candy Cane Sword,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,40
+Explosive Trap Cane,Summoner,0.0,0.0,0.0,1.0,9.0,120.0,0.0,0.0,40
+Iron Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,40
+Lead Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,110.0,0.0,0.0,40
+Spear,Melee,0.0,1.0,0.0,0.0,0.0,80.0,0.0,0.0,40
+Tragic Umbrella,Melee,0.0,1.0,0.0,0.0,0.0,80.0,0.0,0.0,40
+Tungsten Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,130.0,0.0,0.0,40
+Zombie Arm,Melee,0.0,1.0,0.0,0.0,0.0,120.0,0.0,0.0,40
+Ashwood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,36
+Gold Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,36
+Emerald Staff,Mage,1.0,0.0,0.0,0.0,0.0,96.0,0.0,0.0,35
+Tin Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,110.0,0.0,0.0,35
+Tungsten Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,34
+Blowpipe,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,32
+Silver Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,32
+Lead Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,31
+Blade Staff,Summoner,0.0,0.0,0.0,1.0,7.0,85.0,0.0,0.0,30
+Ebonwood Sword,Melee,0.0,1.0,0.0,0.0,0.0,100.0,0.0,0.0,30
+Gravedigger's Shovel,Melee,0.0,1.0,0.0,0.0,0.0,100.0,0.0,0.0,30
+Iron Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,100.0,0.0,0.0,30
+Leather Whip,Summoner,0.0,0.0,0.0,1.0,0.0,60.0,0.0,0.0,30
+Sanguine Staff,Summoner,0.0,0.0,0.0,1.0,6.0,120.0,0.0,0.0,30
+Shadewood Sword,Melee,0.0,1.0,0.0,0.0,0.0,100.0,0.0,0.0,30
+Slime Staff,Summoner,0.0,0.0,0.0,1.0,0.0,80.0,0.0,0.0,30
+Tin Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,85.0,0.0,0.0,30
+Wooden Boomerang,Melee,0.0,1.0,0.0,0.0,0.0,40.0,0.0,0.0,30
+Ebonwood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,29
+Iron Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,29
+Shadewood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,29
+Wand of Sparkling,Mage,1.0,0.0,0.0,0.0,0.0,64.0,0.0,0.0,28
+Ale Tosser,Ranger,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,27
+Copper Broadsword,Melee,0.0,1.0,0.0,0.0,0.0,75.0,0.0,0.0,27
+Tin Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,26
+Ballista Rod,Summoner,0.0,0.0,0.0,1.0,0.0,80.0,0.0,0.0,25
+Bloodrain Bow,Ranger,0.0,0.0,1.0,0.0,0.0,70.0,0.0,0.0,25
+Copper Shortsword,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,25
+Flameburst Cane,Summoner,0.0,0.0,0.0,1.0,9.0,50.0,0.0,0.0,25
+Palm Wood Sword,Melee,0.0,1.0,0.0,0.0,0.0,75.0,0.0,0.0,25
+Sapphire Staff,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+Sickle,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,25
+Umbrella,Melee,0.0,1.0,0.0,0.0,0.0,50.0,0.0,0.0,25
+Palm Wood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24
+Boreal Wood Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+Copper Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+Rich Mahagony Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22
+Topaz Staff,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+Boreal Wood Sword,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,20
+Breathing Reed,Melee,0.0,1.0,0.0,0.0,0.0,60.0,0.0,0.0,20
+Houndius Shootius,Summoner,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,20
+Lightning Aura Cane,Summoner,0.0,0.0,0.0,1.0,9.0,60.0,0.0,0.0,20
+Rich Mahogany Sword,Melee,0.0,1.0,0.0,0.0,0.0,70.0,0.0,0.0,20
+Wooden Bow,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,20
+Wooden Sword,Melee,0.0,1.0,0.0,0.0,0.0,60.0,0.0,0.0,20
+Wooden Yoyo,Melee,0.0,1.0,0.0,0.0,0.0,30.0,0.0,0.0,20
+Amethyst Staff,Mage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+Cactus Sword,Melee,0.0,1.0,0.0,0.0,0.0,55.0,0.0,0.0,18
+Explosive Trap Rod,Summoner,0.0,0.0,0.0,1.0,0.0,45.0,0.0,0.0,15
+Hornet Staff,Summoner,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,15
+Imp Staff,Summoner,0.0,0.0,0.0,1.0,2.0,75.0,0.0,0.0,15
+Paper Plane,Ranger,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,14
+Finch Staff,Summoner,0.0,0.0,0.0,1.0,0.0,25.0,0.0,0.0,10
+Flameburst Rod,Summoner,0.0,0.0,0.0,1.0,0.0,18.0,0.0,0.0,8
+Flinx Staff,Summoner,0.0,0.0,0.0,1.0,0.0,70.0,0.0,0.0,8
+Lightning Aura Rod,Summoner,0.0,0.0,0.0,1.0,0.0,24.0,0.0,0.0,8
